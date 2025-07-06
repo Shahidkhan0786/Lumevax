@@ -34,7 +34,7 @@ jobs:
           username: ${{ secrets.ALIBABA_USER_LUMEVAX}}
           password: ${{ secrets.ALIBABA_PASSWORD_LUMEVAX}}
           script: |
-            cd /var/www/lumeView
+            cd /var/www/lumevax
             git pull origin main
             npm install
             npm run build
