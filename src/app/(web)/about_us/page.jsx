@@ -78,7 +78,7 @@ export default function AboutUs() {
           className="relative z-10 max-w-3xl text-white"
         >
           <h1 className="text-4xl md:text-6xl font-bold">
-            lumevax Smart Business Display
+            Lumevax Smart Business Display
           </h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -113,7 +113,7 @@ export default function AboutUs() {
           {/* lumevax is a high-tech enterprise specializing in{" "}
           <strong>cutting-edge LED display technology</strong>, offering
           innovative and high-quality solutions worldwide. */}
-          lumevax SMART BUSINESS DISPLAY SHANGHAI CO., LTD is a high-tech
+          LUMEVAX SMART BUSINESS DISPLAY SHANGHAI CO., LTD is a high-tech
           enterprise specializing in the research and development, production,
           manufacturing, sales, installation and commissioning, and service of
           LED display screens and customized products. Provide high-quality and
@@ -147,7 +147,7 @@ export default function AboutUs() {
       <section className="bg-blue-50 py-16">
         <div className="max-w-6xl mx-auto px-6">
           <h2 className="text-3xl font-bold text-center mb-8 text-gray-900">
-            Why Choose lumevax?
+            Why Choose Lumevax?
           </h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
@@ -175,7 +175,7 @@ export default function AboutUs() {
         </div>
       </section>
       <Section
-        title="⚙️ 3 +1 lumevax Nuclear Power"
+        title="⚙️ 3 +1 Lumevax Nuclear Power"
         points={[
           "Innovative Thinking: Innovation is the soul of a company and the most powerful weapon for companies to take the initiative in market competition. We focus on continuous innovation to meet global market demands.",
           "Product Thinking: Products are the hard power of brand development and serve as a living advertisement of brand communication. We ensure strict quality assurance and market-driven solutions.",
