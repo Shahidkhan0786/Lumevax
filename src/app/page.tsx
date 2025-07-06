@@ -23,6 +23,7 @@ export default function Home() {
       <WhiteBoardSection />
       {/* <ProjectScroll /> */}
       {/* <ContactForm /> */}
+      
       <Testimonials />
     </div>
   );
