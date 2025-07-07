@@ -44,7 +44,7 @@ export default function About() {
         style={{ y, opacity }}
         className="container mx-auto px-6 text-center relative z-10"
       >
-        <h2 className="text-3xl md:text-4xl font-bold mb-6">ABOUT Lumevax</h2>
+        <h2 className="text-3xl md:text-4xl font-bold mb-6">ABOUT LUMEVAX</h2>
         <p className="max-w-3xl mx-auto text-white mb-8">
           lumevax specializes in splicing screens, advertising machines,
           conference machines, and customized commercial display products. Our

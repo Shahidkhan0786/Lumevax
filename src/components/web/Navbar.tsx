@@ -58,7 +58,7 @@ export default function Navbar() {
         <div className="flex space-x-4">
           <a href="tel:+123456789" className="flex items-center space-x-1">
             <Phone size={16} />
-            <span>+021 54567361</span>
+            <span>+862168042679</span>
           </a>
         </div>
         <div className="flex space-x-4">
@@ -82,8 +82,8 @@ export default function Navbar() {
             <Image
               src="/logo.png"
               alt="lumevax Logo"
-              width={40}
-              height={20}
+              width={60}
+              height={40}
               className="h-auto w-auto max-w-[150px] md:max-w-[180px] rounded-xl"
             />
           </Link>

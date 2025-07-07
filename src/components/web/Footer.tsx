@@ -147,8 +147,7 @@ export default function Footer() {
 
         <div className="mt-8 text-gray-300 text-center lg:text-left">
           <p>
-            Shanghai, Wanxiang International Innovation Port, Hangdu Road,
-            Pudong New Area, 4F, Building 1
+            4F, Building 1, Wanxiang International Innovation Port, Hangdu Road, Pudong New Area
           </p>
           <p className="mt-2">
             <Link href="#" className="hover:text-white">
